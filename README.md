@@ -27,8 +27,7 @@ See the [contributing guidelines](https://github.com/coldrye-es/pingo/blob/maste
 
 ### Contributors
 
- - [Carsten Klein](https://github.com/silkentrance) **Maintainer**
- - [Jay Phelps](https://github.com/jayphelps) **Contributor**
+See [contributors](https://github.com/coldrye-es/pingo/graphs/contributors) for more information.
 
 
 ### Building
